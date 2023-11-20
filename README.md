@@ -1,7 +1,7 @@
 # SeeBU Logo 🛍
 
 ## Description
-SeeUB is a responsive full e-commerce website built using React. This repository contains the code for the website's frontend. The application utilizes the React Router library to handle client-side routing. It defines various routes for different pages, including the home page, about page, shop page, contact page, login page, signup page, forgot password page, cart page, checkout page, blog page, and product details page.
+SeeBU is a responsive full e-commerce website built using React. This repository contains the code for the website's frontend. The application utilizes the React Router library to handle client-side routing. It defines various routes for different pages, including the home page, about page, shop page, contact page, login page, signup page, forgot password page, cart page, checkout page, blog page, and product details page.
 
 ## Project Structure 📁
 - `src/`: Contains the main source code for the React application.
